@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d93b13f3.chunk.css",
-    "main.js": "/static/js/main.cacbf4b4.chunk.js",
-    "main.js.map": "/static/js/main.cacbf4b4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7a4050e0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7a4050e0.js.map",
-    "static/js/2.62afb85f.chunk.js": "/static/js/2.62afb85f.chunk.js",
-    "static/js/2.62afb85f.chunk.js.map": "/static/js/2.62afb85f.chunk.js.map",
-    "static/js/3.dea55d67.chunk.js": "/static/js/3.dea55d67.chunk.js",
-    "static/js/3.dea55d67.chunk.js.map": "/static/js/3.dea55d67.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d93b13f3.chunk.css.map": "/static/css/main.d93b13f3.chunk.css.map",
-    "static/js/2.62afb85f.chunk.js.LICENSE.txt": "/static/js/2.62afb85f.chunk.js.LICENSE.txt",
-    "static/media/IMG4001.50c31021.jpeg": "/static/media/IMG4001.50c31021.jpeg",
-    "static/media/IMG_banner.950533e8.jpeg": "/static/media/IMG_banner.950533e8.jpeg"
+    "main.css": "/chrisalexander.io/static/css/main.d93b13f3.chunk.css",
+    "main.js": "/chrisalexander.io/static/js/main.feb0abea.chunk.js",
+    "main.js.map": "/chrisalexander.io/static/js/main.feb0abea.chunk.js.map",
+    "runtime-main.js": "/chrisalexander.io/static/js/runtime-main.05460edc.js",
+    "runtime-main.js.map": "/chrisalexander.io/static/js/runtime-main.05460edc.js.map",
+    "static/js/2.62afb85f.chunk.js": "/chrisalexander.io/static/js/2.62afb85f.chunk.js",
+    "static/js/2.62afb85f.chunk.js.map": "/chrisalexander.io/static/js/2.62afb85f.chunk.js.map",
+    "static/js/3.dea55d67.chunk.js": "/chrisalexander.io/static/js/3.dea55d67.chunk.js",
+    "static/js/3.dea55d67.chunk.js.map": "/chrisalexander.io/static/js/3.dea55d67.chunk.js.map",
+    "index.html": "/chrisalexander.io/index.html",
+    "static/css/main.d93b13f3.chunk.css.map": "/chrisalexander.io/static/css/main.d93b13f3.chunk.css.map",
+    "static/js/2.62afb85f.chunk.js.LICENSE.txt": "/chrisalexander.io/static/js/2.62afb85f.chunk.js.LICENSE.txt",
+    "static/media/IMG4001.50c31021.jpeg": "/chrisalexander.io/static/media/IMG4001.50c31021.jpeg",
+    "static/media/IMG_banner.950533e8.jpeg": "/chrisalexander.io/static/media/IMG_banner.950533e8.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a4050e0.js",
+    "static/js/runtime-main.05460edc.js",
     "static/js/2.62afb85f.chunk.js",
     "static/css/main.d93b13f3.chunk.css",
-    "static/js/main.cacbf4b4.chunk.js"
+    "static/js/main.feb0abea.chunk.js"
   ]
 }
